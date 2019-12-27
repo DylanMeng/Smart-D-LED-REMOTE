@@ -1,11 +1,11 @@
 ﻿
 ## Smart-D-LED-REMOTE
 
+https://play.google.com/store/apps/details?id=com.dylogicdesign.smartdled
+
 **Currently, we are not planning to release the source code of Smart-D-LED-REMOTE.** 
 
 **However, if you have any feature request, bug, and positive criticism don’t hesitate to raise an issue.** 
-
-*The Early beta version will be released soon on android play store!*
 
 
 ![enter image description here](https://lh3.googleusercontent.com/6wBGwuVmUsRZMqDetDo9NKayCMOE7_Q_kFazWI4YNj0eS5KH01Edzevjk1FMlbRCgGbBrnj9Jp1i) ![enter image description here](https://lh3.googleusercontent.com/4ausoNKtInH0Xq-KJQ4jwGfrZA4hbUAtZWanCuZEaonVzU0AqRSuWk40Xc-pgjZlTDjBqoE1Ef-d)
